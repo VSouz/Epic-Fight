@@ -1,6 +1,5 @@
 # Epic Fight
 
-# **Epic Fight**
 
 ![Tela do Jogo](images/telainicial.png)
 
