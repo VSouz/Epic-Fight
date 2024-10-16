@@ -3,9 +3,6 @@
 
 ![Tela do Jogo](images/telainicial.png)
 
-## **Descrição**
-
-**Epic Fight** é um jogo platformer emocionante...
 
 
 ## Descrição
