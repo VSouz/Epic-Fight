@@ -2,7 +2,7 @@
 
 # **Epic Fight**
 
-![Tela do Jogo](images/telaincial.png)
+![Tela do Jogo](images/telainicial.png)
 
 ## **Descrição**
 
