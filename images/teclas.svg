@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600" viewBox="0 0 900 600">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 10.583px;
+      }
+
+      .cls-1 {
+        fill: #ffac1b;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        text-anchor: middle;
+        font-family: Minecraft;
+        font-weight: 500;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 5.699px;
+      }
+    </style>
+  </defs>
+  <g id="teclas">
+    <image id="Retângulo_2" data-name="Retângulo 2" x="557" y="533" width="26" height="27" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAbCAYAAABiFp9rAAABB0lEQVRIie3WyUrEUBBG4S89qjiA6K637gUfQnxWX0Vc+AKigoioiLN2t5EKFXCncLNMwaUykP/cutmcqj6eHeEJm9jHBr6U1QR3OMMnVkYYo+3TeIhBB6Bp5i6jx8Uz3jDMXXxg3gHoAa95OstRHtctdnGoqqO/oyoAxalcqqtBDrEWoL18McMBdlAXTiRzzvGIrfYMYy3wnZOUTNNWnb+gyS/96f+uHtSDelAP6kE96A/QONckZaKrGv7KbOTkBPe4waq62u5ITq5xmv7ROMNFet1Leth6R6DY/FVmTQMU/tV6WEBCIEP6Srwh8kLbIrO5D1B4V1Cjh4cFoHSi+D40KzIXmP8ANsI+DJuiHkkAAAAASUVORK5CYII="/>
+    <text id="Menu_ESC_" data-name="Menu = &apos;ESC&apos;" class="cls-1" x="87.349" y="549.777">Menu = &apos;ESC&apos;</text>
+    <text id="A" class="cls-2" transform="translate(570.492 552.027) scale(0.756)">A</text>
+    <image id="Retângulo_2_copiar" data-name="Retângulo 2 copiar" x="557" y="566" width="26" height="27" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAbCAYAAABiFp9rAAABFUlEQVRIie3WvUoDURDF8d8mUeMHChqw0AewsLG1tPZNfRgLEQs7URsTEfEDo3FldBbWxuamEXZguHtvcf5z9i7sqeqT3WM8Yh0H2MBUWS1ijFO8YTjAEhZyXcNq7ksqtF4S+Bn7AE3wlAdXWMHHHBzdZ8fbeQ3QHu6whUNVPUq7pY5u1NU3JIYP0D6usYMjjNJdSVWpOW7uf5CHTfUxKIS0tZqqejl9u+dVv3R7cxT+szpQB+pAHagD/SNQ3TzET26Yv95h9rxqOfPHtAknZ5kZHrCtrjbxXgiLFHWLczxHugrQRaagSStylYKaXHfZdhQddxVrTFKa6RpH0ZEbQrsf4pHhZukiYlZMU+ooPoJw8qPN7Aug8kElfdGglwAAAABJRU5ErkJggg=="/>
+    <text id="D" class="cls-2" transform="translate(570.492 585.184) scale(0.756)">D</text>
+    <text id="esquerda" class="cls-1" transform="translate(631.493 550.259) scale(0.756)">esquerda</text>
+    <text id="direita" class="cls-1" transform="translate(620.444 585.184) scale(0.756)">direita</text>
+    <image id="Retângulo_2_copiar_2" data-name="Retângulo 2 copiar 2" x="685" y="533" width="26" height="27" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAbCAYAAABiFp9rAAAA+0lEQVRIie3WsUoDURCF4W81MQERO7FQBK0VH0Kf1kcRtLEWIY2KKKKJmhhXJsyGdCn2ljswO3dhOf89e4t7qvrq4BLf6OMMe5hqV6H1hRu8Y7eHpjcxwBAbBUB/OUO7H4/xiqPXhJRyNM5egE7xsXBS1Rc4TnCb2lr8sroK/Ufsx+IEb9jGeb6XqNj8fUKPAvSLeU4FzqepekV7Xkp0bXWgDtSBOlAH6kBrQMsAURjcy9t1GU5uM0AM1NUODguFk7jKr/GMlwCNMozE+g5PBVPQQ+a6SWOvyWARUMLVTwtIZIXIh3EMMUN/GKBZdnwQu/gs4Cj0Jqkzw/Qf4p4+FDaeCykAAAAASUVORK5CYII="/>
+    <text id="J" class="cls-2" transform="translate(698.689 552.027) scale(0.756)">J</text>
+    <text id="Edash_" data-name="Edash " class="cls-1" transform="translate(748.642 552.027) scale(0.756)">Edash </text>
+    <image id="Retângulo_2_copiar_3" data-name="Retângulo 2 copiar 3" x="685" y="566" width="26" height="27" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAbCAYAAABiFp9rAAABFklEQVRIie2WMWsCQRBG3+qdp0mKVNoEAgEbO6t01vmv+RfpUwUiCIKFRQioQUUTo9nwyRycKdLsNsIODBy38L2ZbfY5/3jzAHwCGdAHOsCOsMqBDfAMfADXCm8ABzu8AK6Ar0CQMh1QWG4h0KKy0dS+Y2y0BWbAEvAK7wLr4xTO3wO3ETYSaIV3e+AdaAvUs60ugQFwpwkCQe4Igjkw0fBZ5QC7vjwQUlZWHbgG/PzpWHWSW4sY/G8lUAIlUAIl0BmBTt6jpklE0zpWtUx2lN3SK/hqzlDg3ZM5Q6icZJb5ArzpWdePkZlPblOMI1rQ0LxuIVDdWtdYOkOonChDBlRm1xUseVRLULSJVOs7EKRBy5wDsP8FOkNE1qF0VvUAAAAASUVORK5CYII="/>
+    <text id="L" class="cls-2" transform="translate(698.689 585.184) scale(0.756)">L</text>
+    <text id="Ddash_" data-name="Ddash " class="cls-1" transform="translate(748.642 585.184) scale(0.756)">Ddash </text>
+    <image id="Retângulo_2_copiar_4" data-name="Retângulo 2 copiar 4" x="787" y="533" width="28" height="27" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAYAAABvCO8sAAABE0lEQVRIie2WvUrEQBSFv3Enxh+00kZEGwtrC30HX9XHsbAQ7FYUUYL4s8smjhz3BIKVmCm2mAOXmdzifPfCQE5IV4cXwC4wA/aAMyABX/xfAVgDpsA1ULv3EoGJS/d1YCMjsLZvdH+iy6cbc+AVeMoIbIAPoLPnTKATYB94A44J6TIj8IYUWmDb/amAB8CRpzkFzkeAfmsLuPUb0RApet3WZ+fJcqkdlIBdTvM/qQALsAALsAALcAWBfcCpBmdO1fas/AOO0RHg2WGnIYVN55k0Ahxcdz+5ZpkE9f0o4APw7tQ2d/7IFaLkfe9NpabPoipBtN2O78o3Y4EKUb2/VAm4GJQ21LZ9jhwLVOaV7/JxwuIb6RVH/kBHpzwAAAAASUVORK5CYII="/>
+    <image id="Retângulo_2_copiar_5" data-name="Retângulo 2 copiar 5" x="783" y="566" width="35" height="27" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAbCAYAAAD28DaZAAABPklEQVRIie2XvUoEMRSFv+g4s7sKayFWVja+g4WNje/qI/gOgpUgKHYqLP6B+DOuI2c90WEghWCsciBM7oTJ+eYmxb2hO9zaByrgHZgDa8AuEICOPFoBnoBj4BZogFVB1F6U+VJc8PwjE0xtv8beGrVg7hy0zoyel/+QmWdgBjw6fhXMtgnfDLJO6PZ8dDlh7hdXowvXwBiYynAHmAAvogM2gQMfUy4Fn4iycu57ulF5oS/FlTOTU3H/6B/iJR2OeWYQ+PH59s55FL9WgUmpwKRUYFIqMCkVmJQKTEoFJqVYkDe9EnPkOLfGHtF/JJizQQ08owtHmWtg7f0AnABXhrrRywsvtr2+aeqPcncHpy7MlZ1J5Xuz3OuRNI+1cU4Y/bx85LfwjJ2kjJUVDcXqEoaF+l9KPy4PAX3VwtB+Aq0NTAkavGDwAAAAAElFTkSuQmCC"/>
+    <image id="Retângulo_2_copiar_6" data-name="Retângulo 2 copiar 6" x="807" y="566" width="35" height="27" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAbCAYAAAD28DaZAAABLklEQVRIie2Xu04DMRREz91NNg9RQ8OjSkNJRUnLt/IVfAASEhJF2oiCCgqkhFeMJrpGJsJUeKHwSF6tvZbn7LWLsYWL/XPgBXgHBsAJsAesAOP3pTWHwDWwAFqgUZN5BwQf0KQpsOOTSsA0/tMj92u9b3o8JJVpnXZVuDLyvQce3bONMDNgCbxtqmThFDgsDNMRTAATBxlGmGPgyWH08Qw48q0rJXPPeDS6CJMSkxyw3iWY9TetD237WvMXFcipwuRUYXKqMDlVmJwqTE4VJqd/D1MyVP0o5Zkx8OpJb+xhvA9N3G+QJr3bJAOPCHYJHHhIL6EYyK+Aub9/3g7mbrz2QRHv9nBvugHutm8HsUMSkNV0dSkJE32/wGh7ZBzNVaVnP0elpF3Q+vKUAmAfpqo+eab5P04AAAAASUVORK5CYII="/>
+    <text id="K" class="cls-2" transform="translate(801.249 552.027) scale(0.756)">K</text>
+    <text id="Ataque" class="cls-1" transform="translate(851.202 552.027) scale(0.756)">Ataque</text>
+    <text id="Pulo" class="cls-1" transform="translate(862.697 585.184) scale(0.756)">Pulo</text>
+    <text id="SPACE" class="cls-3" transform="translate(813.566 583.069) scale(1.015 1.039)">SPACE</text>
+  </g>
+</svg>
